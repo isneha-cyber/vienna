@@ -1,0 +1,41 @@
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+@font-face {
+  font-family: 'tropical';
+  src: url('/resources/fonts/tropical.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Butler_Black';
+  src: url('/resources/fonts/Butler_Black.ttf') format('truetype');
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Manrope-Light';
+  src: url('/resources/fonts/Manrope-Light.ttf') format('truetype');
+  font-weight: normal;
+}
+
+
+ h2{
+  font-family: 'tropical', sans-serif;
+}
+
+h1{
+  font-family: 'Butler_Black', sans-serif;
+}
+
+h3{
+  font-family: 'Butler_Regular';
+}
+ p{
+  font-family: 'Manrope-Light', sans-serif;
+}
