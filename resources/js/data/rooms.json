@@ -1,0 +1,206 @@
+[
+  {
+    "number": "01",
+    "slug": "grand-overwater-bungalow-with-jacuzzi",
+    "title": "Grand Overwater Bungalow with Jacuzzi",
+    "area": "39m²",
+    "guests": "Up to 3 guests",
+    "bedInfo": "1 king-size bed & 1 sofa bed",
+    "deckInfo": "Wooden deck with direct lagoon access",
+    "description": "Experience ultimate luxury in our overwater bungalow with private jacuzzi and panoramic lagoon views.",
+    "images": [
+      "/images/room1.jpg",
+      "/images/room1_2.jpg",
+      "/images/room1_3.jpg"
+    ],
+    "amenities": ["Private Jacuzzi", "Lagoon View", "Air Conditioning", "Minibar", "Free WiFi", "Flat-screen TV"],
+    "price": "From $450/night"
+  },
+  {
+    "number": "02",
+    "slug": "swim-up-maisonette",
+    "title": "Swim-Up Maisonette",
+    "area": "67m²",
+    "guests": "Up to 4 guests",
+    "bedInfo": "1 king bed & 1 sofa bed",
+    "deckInfo": "Direct pool access from terrace",
+    "description": "Spacious maisonette offering comfort and private swim-up access.",
+    "images": [
+      "/images/room2.jpg",
+      "/images/room2_2.jpg",
+      "/images/room2_3.jpg"
+    ],
+    "amenities": ["Swim-up Access", "Private Terrace", "Kitchenette", "Living Area", "Air Conditioning", "Free WiFi"],
+    "price": "From $380/night"
+  },
+  {
+    "number": "03",
+    "slug": "signature-island-villa",
+    "title": "Signature Island Villa",
+    "area": "140m²",
+    "guests": "Up to 6 guests",
+    "bedInfo": "2 king beds & 1 sofa bed",
+    "deckInfo": "Private pool & ocean view",
+    "description": "Exclusive island villa designed for families and premium comfort.",
+    "images": [
+      "/images/room3.jpg",
+      "/images/room3_2.jpg",
+      "/images/room3_3.jpg"
+    ],
+    "amenities": ["Private Pool", "2 Bedrooms", "Full Kitchen", "Living Room", "Dining Area", "Garden View"],
+    "price": "From $650/night"
+  },
+  {
+    "number": "04",
+    "slug": "island-villa-private-pool",
+    "title": "Island Villa Private Pool",
+    "area": "35m²",
+    "guests": "Up to 2 guests",
+    "bedInfo": "1 king-size bed",
+    "deckInfo": "Private terrace with pool",
+    "description": "Elegant villa with private pool and tropical ambiance.",
+    "images": [
+      "/images/room4.jpg",
+      "/images/room4_2.jpg",
+      "/images/room4_3.jpg"
+    ],
+    "amenities": ["Private Pool", "Sun Terrace", "Air Conditioning", "Minibar", "Free WiFi", "Bathrobes & Slippers"],
+    "price": "From $320/night"
+  },
+  {
+    "number": "05",
+    "slug": "premium-swim-up",
+    "title": "Premium Swim Up",
+    "area": "34m²",
+    "guests": "Up to 3 guests",
+    "bedInfo": "1 king bed & sofa",
+    "deckInfo": "Lagoon swim-up access",
+    "description": "Premium swim-up suite with direct water access.",
+    "images": [
+      "/images/room5.jpg",
+      "/images/room5_2.jpg",
+      "/images/room5_3.jpg"
+    ],
+    "amenities": ["Swim-up Access", "Lagoon View", "Air Conditioning", "Coffee Maker", "Free WiFi", "Safety Deposit Box"],
+    "price": "From $290/night"
+  },
+  {
+    "number": "06",
+    "slug": "luxury-swim-up",
+    "title": "Luxury Swim Up",
+    "area": "27m²",
+    "guests": "Up to 2 guests",
+    "bedInfo": "1 double-size bed",
+    "deckInfo": "Terrace with pool access",
+    "description": "Modern luxury room with swim-up convenience.",
+    "images": [
+      "/images/room6.jpg",
+      "/images/room6_2.jpg",
+      "/images/room6_3.jpg"
+    ],
+    "amenities": ["Pool Access", "Terrace", "Air Conditioning", "Flat-screen TV", "Free WiFi", "Hairdryer"],
+    "price": "From $260/night"
+  },
+  {
+    "number": "07",
+    "slug": "premium-pool-view-jacuzzi",
+    "title": "Premium Pool View with Jacuzzi",
+    "area": "34m²",
+    "guests": "Up to 3 guests",
+    "bedInfo": "King bed & sofa",
+    "deckInfo": "Balcony with jacuzzi",
+    "description": "Premium comfort with exterior jacuzzi and pool views.",
+    "images": [
+      "/images/room7.jpg",
+      "/images/room7_2.jpg",
+      "/images/room7_3.jpg"
+    ],
+    "amenities": ["Private Jacuzzi", "Pool View", "Air Conditioning", "Minibar", "Free WiFi", "Bathroom Amenities"],
+    "price": "From $310/night"
+  },
+  {
+    "number": "08",
+    "slug": "premium-pool-view-steam-bath",
+    "title": "Premium Pool View with Steam Bath",
+    "area": "34m²",
+    "guests": "Up to 3 guests",
+    "bedInfo": "King bed & sofa",
+    "deckInfo": "Balcony with steam bath",
+    "description": "Relax in your private steam bath with pool views.",
+    "images": [
+      "/images/room8.jpg",
+      "/images/room8_2.jpg",
+      "/images/room8_3.jpg"
+    ],
+    "amenities": ["Steam Bath", "Pool View", "Air Conditioning", "Coffee Machine", "Free WiFi", "Desk"],
+    "price": "From $330/night"
+  },
+  {
+    "number": "09",
+    "slug": "premium-pool-view",
+    "title": "Premium Pool View",
+    "area": "34m²",
+    "guests": "Up to 3 guests",
+    "bedInfo": "King bed & sofa",
+    "deckInfo": "Balcony with pool view",
+    "description": "Comfortable room with premium poolside scenery.",
+    "images": [
+      "/images/room9.jpg",
+      "/images/room9_2.jpg",
+      "/images/room9_3.jpg"
+    ],
+    "amenities": ["Pool View", "Balcony", "Air Conditioning", "TV", "Free WiFi", "Tea/Coffee Facilities"],
+    "price": "From $240/night"
+  },
+  {
+    "number": "10",
+    "slug": "luxury-pool-view",
+    "title": "Luxury Pool View",
+    "area": "27m²",
+    "guests": "Up to 2 guests",
+    "bedInfo": "Double-size bed",
+    "deckInfo": "Elegant pool view terrace",
+    "description": "Luxury experience overlooking the main pool.",
+    "images": [
+      "/images/room10.jpg",
+      "/images/room10_2.jpg",
+      "/images/room10_3.jpg"
+    ],
+    "amenities": ["Pool View", "Terrace", "Air Conditioning", "Minibar", "Free WiFi", "Ironing Facilities"],
+    "price": "From $220/night"
+  },
+  {
+    "number": "11",
+    "slug": "overwater-nest",
+    "title": "Overwater Nest",
+    "area": "31m²",
+    "guests": "Up to 2 guests",
+    "bedInfo": "Double bed",
+    "deckInfo": "Deck with jacuzzi",
+    "description": "Romantic overwater nest with breathtaking views.",
+    "images": [
+      "/images/room11.jpg",
+      "/images/room11_2.jpg",
+      "/images/room11_3.jpg"
+    ],
+    "amenities": ["Overwater", "Private Jacuzzi", "Lagoon View", "Air Conditioning", "Free WiFi", "Romantic Setup"],
+    "price": "From $400/night"
+  },
+  {
+    "number": "12",
+    "slug": "overwater-bungalow",
+    "title": "Overwater Bungalow",
+    "area": "25m²",
+    "guests": "Up to 2 guests",
+    "bedInfo": "Double bed",
+    "deckInfo": "Lagoon access deck",
+    "description": "Classic overwater bungalow with serene lagoon access.",
+    "images": [
+      "/images/room12.jpg",
+      "/images/room12_2.jpg",
+      "/images/room12_3.jpg"
+    ],
+    "amenities": ["Overwater", "Lagoon Access", "Sun Deck", "Air Conditioning", "Free WiFi", "Beach Towels"],
+    "price": "From $350/night"
+  }
+]

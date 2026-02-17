@@ -130,9 +130,7 @@ const Reviving = () => {
               className='text-3xl sm:text-4xl md:text-5xl font-light from-neutral-50 leading-tight sm:leading-[32px] tracking-wide sm:tracking-3px text-center'
             >
               The Island 
-              <span className='block md:absolute md:top-20 md:left-1/2 md:transform md:-translate-x-1/2 lg:left-auto lg:transform-none lg:top-14 lg:left-36 mt-2 md:mt-0'>
-                Gastronomy
-              </span>
+              
             </h3>
           </div>
           <div className="overflow-hidden ">
@@ -144,6 +142,10 @@ const Reviving = () => {
               style={{ opacity: 0.7 }} // Initial opacity for animation
             />
           </div>
+         <h3> <span className='text-3xl sm:text-4xl md:text-5xl z-20 block md:absolute md:top-20 md:left-1/2 md:transform md:-translate-x-1/2 lg:left-auto lg:transform-none lg:top-14 lg:left-32 mt-2 '>
+                Gastronomy
+              </span>
+              </h3>
         </div>
       </div>
     </>

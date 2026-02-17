@@ -39,3 +39,8 @@ h3{
  p{
   font-family: 'Manrope-Light', sans-serif;
 }
+
+/* In your global.css or main CSS file */
+html {
+  scroll-behavior: smooth;
+}
