@@ -25,10 +25,10 @@
 //     );
 // }
 
-import AdminWrapper from '@/Components/AdminWrapper/AdminWapper';
 import AuthenticatedLayout from '@/Layouts/AuthenticatedLayout';
 import { Head } from '@inertiajs/react';
 import Admingallery from './AdminPages/Admingallery';
+import AdminWrapper from '@/Components/AdminComponents/AdminWrapper';
 
 
 export default function Dashboard() {

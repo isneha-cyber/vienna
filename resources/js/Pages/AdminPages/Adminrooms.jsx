@@ -1,8 +1,12 @@
+import AdminWrapper from '@/Components/AdminComponents/AdminWrapper'
 import React from 'react'
+import Addroom from './Addroom'
 
 const Adminrooms = () => {
   return (
-    <div>Adminrooms</div>
+<AdminWrapper activeTab="rooms">
+  <Addroom/>
+</AdminWrapper>
   )
 }
 

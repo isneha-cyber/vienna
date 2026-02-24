@@ -21,7 +21,9 @@ const Accomodation = () => {
               <span className="mx-1 sm:mx-2">/</span>
             </li>
             <li className="text-gray-900 font-medium leading-snug">
+              <a href="/accomodation">
               Accomodation
+              </a>
             </li>
           </ol>
         </nav>
